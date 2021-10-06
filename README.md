@@ -11,7 +11,12 @@ Reckoner is a device which is used for mathematical calculation.
 Here is a Reckoner which can perform different type of mathematical Calculations like Arithmetic Operations, Trigonometric, factorial, etc.
 
 ## Overview
-
+### Before Entering Values
+![](https://github.com/ShwetaDhame/Reckoner.git.io/blob/main/Capture.JPG)
+### After Entering Values
+![](https://github.com/ShwetaDhame/Reckoner.git.io/blob/main/Capture1.JPG)
+### Result
+![](https://github.com/ShwetaDhame/Reckoner.git.io/blob/main/Capture2.JPG)
 
 ## HTML5 Code
 ```bash
