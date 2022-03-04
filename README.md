@@ -209,5 +209,5 @@ function backspc()
     screen.value = screen.value.substr(0,screen.value.length-1);
 }
 ```
-## <a href="https://shwetadhame.github.io/Reckoner.git.io/">Click here for Demo!!</a>
+## <a href="https://shwetadhame.github.io/Calculator.git.io/">Click here for Demo!!</a>
 ## Thanking You!!
